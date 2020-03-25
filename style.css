@@ -1,0 +1,17 @@
+body {
+  padding: 1em;
+}
+
+#quilt {
+  display: block;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  display: block;
+  float: left;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
